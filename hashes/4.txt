@@ -1,0 +1,15 @@
+# DTube DMCA takedown request
+# https://blocks.oneloved.tube/#/content/unity3dfps22/QmTqeoK6FYtLchTBbs1RMUQPCz8KKNB3dEejq3BDfbWfGf
+# Files that might have made it to the public IPFS network
+
+QmTqeoK6FYtLchTBbs1RMUQPCz8KKNB3dEejq3BDfbWfGf
+QmbX6WXYfB3SavcEhPY34GZL5yF7TsAkDdh2jwtMpnRALB
+QmPnQxB5U1rx9cx5fEAYACFdXG5ea6zqfFuspXgUPZMNKE
+QmbyKVNcGAvvGmTaDFcwPwPjfgMMwgYkHK7Z14dRGLrGCd
+
+# Computed base32 cid
+
+bafybeicrxbqszg7guxijffzmupwtk7g5qle5gtrbngqjpc3bobmbd6cvjq
+bafybeigd2tusgiwem3ch2w5tr62iuyhaprtwimti4y7tby26as63wzifbq
+bafybeiavou5xyovg32o5xwj33dzij3bmgrbaelqdg4l2xswhc7i2ivtpgu
+bafybeigkrsyds2wkcf2bywvclm7zydwowv5sn7ch5ko3lqfdhau3alhi6y
